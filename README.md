@@ -181,4 +181,4 @@ Overall, it is a simple OpenGL project made for practicing 2D graphics and anima
 
 ## Output Preview
 
-![Project Output](output.png)
+![Project Output](Sreenshort%20%2876%29.png)
