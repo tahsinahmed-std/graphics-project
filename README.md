@@ -179,6 +179,6 @@ I also learned how to add simple animation using GLUT timers and how keyboard in
 
 Overall, it is a simple OpenGL project made for practicing 2D graphics and animation.
 
-MyProject.cpp
-screenshots/
-output.png
+## Output Preview
+
+![Project Output](output.png)
